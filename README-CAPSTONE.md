@@ -1,4 +1,5 @@
-# CAPSTON PROJECT - SOCIAL MEDIA COMPARISON BETWEEN TOPEKA HEALTHCARE FACILITIES - STORMONT-VAIL AND UNIVERISTY OF KANSAS HEALTHCARE - ST. FRANCIS CAMPS
+### Capstone Project 
+### Social Media Comparison for Topeka's two biggest healthcare facilities:  Stormont-Vail Healtha and Univeristy of Kansas Healthcare - St. Francis Campus
 
 I work for Stormont-Vail Health and one of our missions is to improve the health of our community. Stormont-Vail is aware of the importance of an online presence to connect with our patients and I am interested in comparing our reach demographics and integration versus our neighbor of University of Kansas Health Systems - St. Francis Campus. Knowing that our split has always been 70/30 for admissions within our serving area, does our Facebook presence reflect similar percentages?
 
@@ -10,11 +11,11 @@ GTM Analysis, Topic Analysis, Comment/Share/Like Analysis, Word Frequency, Visua
 
 My target will be our marketing department that manage our page as well as strategic planning. Is there any patterns of success that can be replicated and/or continued? Is there interactions that should be used less and/or avoided?
 
-## SUMMARY POWERPOINT PRESENTATION:
+#### SUMMARY POWERPOINT PRESENTATION:
 https://youtu.be/tCdUa20vnzQ <br/>
 SEE ATTACHED "V.CAPSTONE.PPT" 
 
-## Built With
+#### Built With
 * [Python] https://www.python.org/download/releases/2.7/
 * [Jupyter] http://jupyter.org/
 * [Facepager] https://github.com/strohne/Facepager
@@ -26,5 +27,5 @@ SEE ATTACHED "V.CAPSTONE.PPT"
 * [Facebook] https://www.facetook.com
 * [Twitter] https://www.twitter.com
 
-## Authors
+#### Authors
 * Vinecia Haugsness
